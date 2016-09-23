@@ -16,3 +16,5 @@ def translate(inString, n):
 
 
 translate(inString, 2)
+
+translate('map', 2)

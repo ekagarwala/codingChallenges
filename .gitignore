@@ -90,3 +90,5 @@ ENV/
 
 # Data Folders
 # *data/*
+
+ocr/data/inputString.txt
